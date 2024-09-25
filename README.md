@@ -2,12 +2,12 @@
 
 
 ## Skills
- _ _ Bash Script
- _ _ Sistema Operacional
- _ _ Infraestrutura
+ _Bash Script_
+ _Sistema Operacional_
+ _Infraestrutura_
 
  ### Entusiasta
-  _ _ Open Source
+  _Open Source_
 
  #### Meu caminho
 
