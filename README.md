@@ -3,10 +3,14 @@
 > "Se valorizamos a nossa liberdade, podemos mantê-la e defendê-la." - Richard Stallman
 
 ## Resumo de Habilidades
- - _Bash Script_
- - _Virtualização_
- - _Sistema Operacional_
- - _Infraestrutura_
+
+
+|   #  |      Skill         |
+|-----:|--------------------|
+|     1| Bash Script        |
+|     2| Virtualização      |
+|     3| Sistema Operacional|
+|     3| SQL                |
 
  ### Sou Entusiasta
   _Open Source_
