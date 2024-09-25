@@ -2,9 +2,9 @@
 
 
 ## Skills
- > _Bash Script_
- > _Sistema Operacional_
- > _Infraestrutura_
+ - _Bash Script_
+ - _Sistema Operacional_
+ - _Infraestrutura_
 
  ### Entusiasta
   > _Open Source_
