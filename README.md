@@ -1,5 +1,6 @@
 # Olá, seja bem vindo 👋
 
+> "Se valorizamos a nossa liberdade, podemos mantê-la e defendê-la." - Richard Stallman
 
 ## Resumo de Habilidades
  - _Bash Script_
