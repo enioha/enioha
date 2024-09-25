@@ -1,13 +1,13 @@
 # Olá, seja bem vindo 👋
 
 
-## Habilidades
+## Resumo de Habilidades
  - _Bash Script_
  - _Virtualização_
  - _Sistema Operacional_
  - _Infraestrutura_
 
- ### Entusiasta
+ ### Sou Entusiasta
   _Open Source_
 
  #### Meu caminho
