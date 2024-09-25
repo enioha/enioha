@@ -1,7 +1,7 @@
 # Olá 👋
 
 
-## Skills
+## Habilidades
  - _Bash Script_
  - _Sistema Operacional_
  - _Infraestrutura_
