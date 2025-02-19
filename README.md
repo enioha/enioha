@@ -18,5 +18,4 @@
  #### Meu caminho
 
 - 🔭 Estou trabalhando em projetos para cloud computing
-- 🌱 Estou aprendendo Python
 - 👯 Estou procurando colaborar em projetos open source
